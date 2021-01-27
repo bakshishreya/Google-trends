@@ -7,5 +7,6 @@ https://docs.google.com/presentation/d/1B_GqUXMtSbUWC3BRNBPDW0-H3lCSniVgOGsSaJZc
 https://docs.google.com/document/d/1lj_QvbtYYz18J5dhnSXelImolI903Vi1bMZ5YZ7wBQA/edit?usp=sharing
 
 # Jupiter Notebooks
-Brandy: FirstMonthData-Topics.ipynb
-        FirstMonthData-Terms.ipynb
+Brandy: 
+* FirstMonthData-Topics.ipynb
+* FirstMonthData-Terms.ipynb
