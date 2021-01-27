@@ -10,3 +10,4 @@ https://docs.google.com/document/d/1lj_QvbtYYz18J5dhnSXelImolI903Vi1bMZ5YZ7wBQA/
 Brandy: 
 * FirstMonthData-Topics.ipynb
 * FirstMonthData-Terms.ipynb
+* Input files in Input folder
