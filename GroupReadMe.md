@@ -16,3 +16,8 @@ Brandy:
 Shreya: 
 * Comp_btn_Covid&Vaccine.ipynb
 
+# Jupiter Notebooks
+Xiao:
+* Xiao_MasksBreadPJ.ipynb
+* Xiao_RisingSearchTrends.ipynb
+
